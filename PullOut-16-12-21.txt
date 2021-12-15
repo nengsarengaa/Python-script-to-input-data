@@ -1,3 +1,0 @@
-name|email|age
-eka|cokeks_82@yahoo.com|40
-fitri|teuing@gmail.com|37
